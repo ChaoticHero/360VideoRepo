@@ -4,6 +4,37 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Strength.unity
+    guid: 0116b3f25027be348ba407d075782c99
+  - enabled: 1
+    path: Assets/Scenes/VideoGames_No.unity
+    guid: deaafbab549736a48b1aa56495932035
+  - enabled: 1
+    path: Assets/Scenes/VideoGames_Yes.unity
+    guid: c67cbf3c7cdff0c4e918f043ca07bd20
+  - enabled: 1
+    path: Assets/Scenes/VideoGames.unity
+    guid: c41ff6b1ca49ce545890b351c384e4b1
+  - enabled: 1
+    path: Assets/Scenes/ShadyEnd.unity
+    guid: 8c67d7a070654dd40b0e3120003ed558
+  - enabled: 1
+    path: Assets/Scenes/Mind_Yes.unity
+    guid: 1802ee425c696f24cb095087690870f2
+  - enabled: 1
+    path: Assets/Scenes/Mind_No.unity
+    guid: 1752dafddecc7024cbf5c55b21056100
+  - enabled: 1
+    path: Assets/Scenes/Mind.unity
+    guid: d050a6d77d0af9540b36d06b50376f80
+  - enabled: 1
+    path: Assets/Scenes/GoodEnd.unity
+    guid: 4fcab94390f526b46bf8508958a41584
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 46ebcf2f60e987a4bb14d046e4c8006f, type: 2}
+  m_UseUCBPForAssetBundles: 0
